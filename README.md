@@ -2,8 +2,7 @@
 
 **XAI-Driven Root Cause Analysis for Electrical Measurement Anomalies**
 
-Transparent AI pipeline for detecting and classifying anomaly causes in electrical measurements.
-Built as a research demo targeting the Fraunhofer IOSB / ODAL project context.
+XAI methods such as SHAP provide feature importance values but do not directly determine the actual cause of anomalies. This project proposes a two-stage approach combining anomaly detection, explainability, and supervised root cause classification to infer anomaly causes in electrical measurement systems.
 
 ## Pipeline
 

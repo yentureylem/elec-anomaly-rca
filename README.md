@@ -1,4 +1,4 @@
-# ⚡ elec-anomaly-rca
+# ⚡ XAI-Driven Root Cause Analysis for Electrical Measurement Anomalies
 
 **XAI-Driven Root Cause Analysis for Electrical Measurement Anomalies**
 
